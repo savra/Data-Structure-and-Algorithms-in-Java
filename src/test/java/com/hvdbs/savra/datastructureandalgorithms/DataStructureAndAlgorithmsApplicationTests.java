@@ -1,4 +1,4 @@
-package com.example.datastructureandalgorithms;
+package com.hvdbs.savra.datastructureandalgorithms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
