@@ -6,9 +6,45 @@ _This repository contains my implementations of popular algorithms and data stru
 
 ---
 ## Algorithms
+Is a finite sequence of rigorous instructions, typically used to solve a class of specific problems 
+or to perform a computation.
 
+### Algorithms by Topic
+
+* Math
+* Sets
+* Strings
+* Searches
+* Sorting
+* Linked Lists
+* Trees
+* Graphs
+* Cryptography
+* Uncategorized
+* Statistics
+* Evolutionary algorithms
+
+
+### Algorithms by Paradigm
+An [algorithmic paradigm](https://en.wikipedia.org/wiki/Algorithmic_paradigm) or algorithm design paradigm is a generic model or framework which underlies 
+the design of a class of algorithms. 
+An algorithmic paradigm is an abstraction higher than the notion of an algorithm, 
+just as an algorithm is an abstraction higher than a computer program.
+
+* Backtracking
+* Branch and bound
+* Brute-force search
+* Divide and conquer
+* Dynamic programming
+* Greedy algorithm
+* Recursion
+* Prune and search
+* Kernelization
+* Iterative compression
+* Sweep line algorithms
+* Rotating calipers
+* Randomized incremental construction
 ---
-
 
 ## Data Structures
  
