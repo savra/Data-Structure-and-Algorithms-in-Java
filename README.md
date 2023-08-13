@@ -20,9 +20,9 @@ A data structure is a storage that is used to store and organize data.
 It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
 
 * Lists
-  * `B` [Array List](src/data-structures/linked-list) 
-    * ![java](https://img.shields.io/badge/java-FF0000)
-    * ![kotlin](https://img.shields.io/badge/kotlin-purple)
+  * `B` Array List
+    * ![java](https://img.shields.io/badge/java-FF0000) [Java implementation](src/data-structures/linked-list) 
+    * ![kotlin](https://img.shields.io/badge/kotlin-purple) [Kotlin implementation](src/data-structures/linked-list)
   * `B` Singly Linked List
   * Doubly Linked List
 * Sets
@@ -34,5 +34,15 @@ It is a way of arranging data on a computer so that it can be accessed and updat
   * Tree Map 
   * Linked Hash Map
 * Trees
-  * 
+  * Red Black Tree
+  * AVL Tree
+  * B Tree
+* Stacks 
+  * Linked List Stack 
+  * Array Stack
+* Queues
+  * LinkedListQueue
+  * ArrayQueue
+  * CircularBuffer
+  * PriorityQueue 
 ---
