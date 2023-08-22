@@ -24,7 +24,6 @@ or to perform a computation.
 * Statistics
 * Evolutionary algorithms
 
-
 ### Algorithms by Paradigm
 An [algorithmic paradigm](https://en.wikipedia.org/wiki/Algorithmic_paradigm) or algorithm design paradigm is a generic model or framework which underlies 
 the design of a class of algorithms. 
