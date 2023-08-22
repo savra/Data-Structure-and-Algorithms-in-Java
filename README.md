@@ -13,7 +13,7 @@ or to perform a computation.
 
 * **Math**
   * `B` Euclidean Algorithm
-    * ![java](https://img.shields.io/badge/java-FF0000)[Java implementation](src/main/java/com/hvdbs/savra/datastructureandalgorithms/java/Math/EuclideanAlgorithm.java) - calculate the Greatest Common Divisor (GCD)
+    * [Java implementation](src/main/java/com/hvdbs/savra/datastructureandalgorithms/java/Math/EuclideanAlgorithm.java) - calculate the Greatest Common Divisor (GCD) ![java](https://img.shields.io/badge/java-FF0000)
 * **Sets**
 * **Strings**
 * **Searches**
