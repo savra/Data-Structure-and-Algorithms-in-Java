@@ -79,5 +79,4 @@ It is a way of arranging data on a computer so that it can be accessed and updat
   * LinkedListQueue
   * ArrayQueue
   * CircularBuffer
-  * PriorityQueue 
----
+  * PriorityQueue
