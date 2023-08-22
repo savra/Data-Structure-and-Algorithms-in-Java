@@ -11,18 +11,19 @@ or to perform a computation.
 
 ### Algorithms by Topic
 
-* Math
-* Sets
-* Strings
-* Searches
-* Sorting
-* Linked Lists
-* Trees
-* Graphs
-* Cryptography
-* Uncategorized
-* Statistics
-* Evolutionary algorithms
+* **Math**
+  * [Euclidean Algorithm](src/main/java/com/hvdbs/savra/datastructureandalgorithms/java/Math) - calculate the Greatest Common Divisor (GCD)
+* **Sets**
+* **Strings**
+* **Searches**
+* **Sorting**
+* **Linked Lists**
+* **Trees**
+* **Graphs**
+* **Cryptography**
+* **Uncategorized**
+* **Statistics**
+* **Evolutionary algorithms**
 
 ### Algorithms by Paradigm
 An [algorithmic paradigm](https://en.wikipedia.org/wiki/Algorithmic_paradigm) or algorithm design paradigm is a generic model or framework which underlies 
