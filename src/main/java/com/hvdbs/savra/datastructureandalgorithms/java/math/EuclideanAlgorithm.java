@@ -1,4 +1,4 @@
-package com.hvdbs.savra.datastructureandalgorithms.java.Math;
+package com.hvdbs.savra.datastructureandalgorithms.java.math;
 
 import org.springframework.util.Assert;
 

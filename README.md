@@ -13,10 +13,12 @@ or to perform a computation.
 
 * **Math**
   * `B` Euclidean Algorithm
-    * [Java implementation](src/main/java/com/hvdbs/savra/datastructureandalgorithms/java/Math/EuclideanAlgorithm.java) - calculate the Greatest Common Divisor (GCD) ![java](https://img.shields.io/badge/java-FF0000)
+    * [Java implementation](src/main/java/com/hvdbs/savra/datastructureandalgorithms/java/math/EuclideanAlgorithm.java) - calculate the Greatest Common Divisor (GCD) ![java](https://img.shields.io/badge/java-FF0000)
 * **Sets**
 * **Strings**
 * **Searches**
+  * `B` Binary Search
+    * [Java implementation](src/main/java/com/hvdbs/savra/datastructureandalgorithms/java/search/BinarySearchIterative.java) (Iterative version) ![java](https://img.shields.io/badge/java-FF0000)
 * **Sorting**
 * **Linked Lists**
 * **Trees**
