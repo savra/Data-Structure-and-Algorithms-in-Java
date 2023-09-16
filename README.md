@@ -12,8 +12,8 @@ or to perform a computation.
 ### Algorithms by Topic
 
 * **Math**
-  * `B` Euclidean Algorithm
-    * [Java implementation](src/main/java/com/hvdbs/savra/datastructureandalgorithms/java/math/EuclideanAlgorithm.java) - calculate the Greatest Common Divisor (GCD) ![java](https://img.shields.io/badge/java-FF0000)
+  * `B` Euclidean Algorithm - calculate the Greatest Common Divisor (GCD)
+    * [Java implementation](src/main/java/com/hvdbs/savra/datastructureandalgorithms/java/math/EuclideanAlgorithm.java) ![java](https://img.shields.io/badge/java-FF0000)
 * **Sets**
 * **Strings**
 * **Searches**
