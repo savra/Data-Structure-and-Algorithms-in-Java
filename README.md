@@ -19,6 +19,7 @@ or to perform a computation.
 * **Searches**
   * `B` Binary Search
     * [Java implementation](src/main/java/com/hvdbs/savra/datastructureandalgorithms/java/search/BinarySearchIterative.java) (Iterative version) ![java](https://img.shields.io/badge/java-FF0000)
+    * [Java implementation](src/main/java/com/hvdbs/savra/datastructureandalgorithms/java/search/BinarySearchRecursive.java) (Recursive version) ![java](https://img.shields.io/badge/java-FF0000)
 * **Sorting**
 * **Linked Lists**
 * **Trees**
